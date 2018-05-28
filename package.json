@@ -1,0 +1,17 @@
+{
+  "name": "bttemplate",
+  "version": "1.0.0",
+  "description": "web template using bootstrao",
+  "main": "index.html",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "hradzi",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-sass": "^3.2.1",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
